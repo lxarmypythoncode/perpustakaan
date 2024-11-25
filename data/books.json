@@ -1,0 +1,32 @@
+[
+    {
+        "judul": "Buku Satu",
+        "pengarang": "Pengarang A",
+        "tahun_terbit": 2020,
+        "dipinjam": false
+    },
+    {
+        "judul": "Buku Dua",
+        "pengarang": "Pengarang B",
+        "tahun_terbit": 2019,
+        "dipinjam": true
+    },
+    {
+        "judul": "aku anak pintar",
+        "pengarang": "anam",
+        "tahun_terbit": "2001",
+        "dipinjam": false
+    },
+    {
+        "judul": "aku anak sehat",
+        "pengarang": "anam",
+        "tahun_terbit": "2002",
+        "dipinjam": false
+    },
+    {
+        "judul": "aku anak pandai",
+        "pengarang": "anam",
+        "tahun_terbit": "2003",
+        "dipinjam": false
+    }
+]
